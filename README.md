@@ -7,8 +7,9 @@
 <pre>git clone https://github.com/ibnusm/domain-graber.git</pre>
 <pre>cd domain-graber</pre>
 <pre>bash install.sh</pre>
+<pre>clear</pre>
 <pre>python graber.pyc</pre>
 <b>Enjoy</b>
 =====================
 ### one comands
-<pre>pkg update && pkg upgrade; pkg install bash && pkg install git; git clone https://github.com/ibnusm/domain-graber.git && cd domain-graber; bash install.sh; python graber.pyc</pre>
+<pre>pkg update && pkg upgrade; pkg install bash && pkg install git; git clone https://github.com/ibnusm/domain-graber.git && cd domain-graber; bash install.sh; clear; python graber.pyc</pre>
