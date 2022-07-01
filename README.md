@@ -11,4 +11,4 @@
 <b>Enjoy</b>
 =====================
 ### one comands
-<pre>pkg update && pkg upgrade; pkg install bash && pkg install git; git clone https://github.com/ibnusm/domain-graber.git; cd domain-graber; bash install.sh; python graber.pyc</pre>
+<pre>pkg update && pkg upgrade; pkg install bash && pkg install git; git clone https://github.com/ibnusm/domain-graber.git && cd domain-graber; bash install.sh; python graber.pyc</pre>
